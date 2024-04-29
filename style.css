@@ -89,18 +89,18 @@ p {
 .text-center{
     text-align: center !important;
 }
-@media(max-width:576px){
+@media (max-width:576px){
     h2{
     font-size: 28px;
     text-align: center;
 }
 }
-@media(max-width:576px){
+@media (max-width:576px){
     p{
         text-align: center;
     }
 }
-@media(max-width:576px){
+@media (max-width:576px){
     .project-link{
         display:block;
         text-align: center;
