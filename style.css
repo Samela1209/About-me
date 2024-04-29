@@ -30,7 +30,6 @@ h3 {
 p {
     font-size: 18px;
     line-height: 1.5;
-    text-align: center;
 }
 
 .navigation-links {
@@ -95,4 +94,9 @@ p {
     font-size: 28px;
     text-align: center;
 }
+}
+@media(max-width:576px){
+    p{
+        text-align: center;
+    }
 }
